@@ -2,7 +2,7 @@
 
 Solutions to common programming tasks using Java written by me.
 Most of these come from leetcode.com or similar sites. This is my take on them.
-All of them are executable and work within their descripted software and hardware limitations.
+All of them are executable and work within their described software and hardware limitations.
 
 Here's a list of them with a short description of what they do:
 
