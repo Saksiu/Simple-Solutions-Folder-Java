@@ -9,4 +9,5 @@ Here's a list of them with a short description of what they do:
 1. RomanToArabic.java - Convert a given number written in the roman numerical system to an arabic numerical system.
 2. SumOfArray.java - Adding up next numbers in series from an array and outputing increasing sums.
 3. PivotIndex.java - Find an index of a number, that divides any integer array into two equal sums of integers.
-4. Isomorphic Strings - Given two strings, determine if they are Isomorphic.
+4. IsomorphicStrings.java - Given two strings, determine if they are Isomorphic.
+5. IsSubsequence.java - Given two strings, determine wether one of them is a subsequence of another.
