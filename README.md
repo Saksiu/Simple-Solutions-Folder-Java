@@ -6,6 +6,7 @@ All of them are executable and work within their described software and hardware
 
 Here's a list of them with a short description of what they do:
 
-1. RomanToArabic.java - A simple program with a function converting a given number written in the roman numerical system to an arabic numerical system.
-2. SumOfArray.java - Very simple program adding up next numbers in series from an array and outputing increasing sums.
-3. PivotIndex.java - A program finding an index of a number, that divides any integer array into two equal sums.
+1. RomanToArabic.java - Convert a given number written in the roman numerical system to an arabic numerical system.
+2. SumOfArray.java - Adding up next numbers in series from an array and outputing increasing sums.
+3. PivotIndex.java - Find an index of a number, that divides any integer array into two equal sums of integers.
+4. Isomorphic Strings - Given two strings, determine if they are Isomorphic.
