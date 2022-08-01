@@ -11,3 +11,4 @@ Here's a list of them with a short description of what they do:
 3. PivotIndex.java - Find an index of a number, that divides any integer array into two equal sums of integers.
 4. IsomorphicStrings.java - Given two strings, determine if they are Isomorphic.
 5. IsSubsequence.java - Given two strings, determine wether one of them is a subsequence of another.
+6. ReverseInteger.java - Reverse any 32bit number.
