@@ -12,3 +12,4 @@ Here's a list of them with a short description of what they do:
 4. IsomorphicStrings.java - Given two strings, determine if they are Isomorphic.
 5. IsSubsequence.java - Given two strings, determine wether one of them is a subsequence of another.
 6. ReverseInteger.java - Reverse any 32bit number.
+7. SameTree.java - Given 2 binary trees' roots determine wether they are identical.
