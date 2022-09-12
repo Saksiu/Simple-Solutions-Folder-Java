@@ -6,6 +6,7 @@ public class RomanToArabic {
 
         String str=in.nextLine();
         System.out.println(romanToInt(str));   //calling the converter function
+        in.close();
     }
     public static int romanToInt(String s){
         int number=0;
